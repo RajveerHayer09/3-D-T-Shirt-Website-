@@ -10,3 +10,6 @@ Here ,we can do :
 5. Download the image of the designed t-shirt by just a simple click or a button.
 
 EDIT: Unfortunately, the Dalle has monitized the use of API which was earlier free and therefore it is not working now and may show error.
+
+![screenshot home page](https://github.com/RajveerHayer09/3-D-T-Shirt-Website-/assets/91181106/d1def0fd-1011-433a-a59f-7122950ca60b)
+
